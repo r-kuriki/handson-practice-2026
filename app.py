@@ -1,4 +1,5 @@
 def main():
+	"""Entry point for the application; prints a greeting for GitHub Actions."""
 	print("Hello, GitHub Actions!")
 
 
